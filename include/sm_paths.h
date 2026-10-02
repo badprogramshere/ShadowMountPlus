@@ -28,7 +28,7 @@
 #define KILL_FILE "/data/shadowmount/STOP"
 #define TOAST_FILE "/data/shadowmount/notify.txt"
 #define NOTIFY_ICON_DIR "/user/data/shadowmount"
-#define NOTIFY_ICON_FILE "/user/data/shadowmount/smpicon.png"
+#define NOTIFY_ICON_FILE "/user/data/shadowmount/smp_icon.png"
 #define APP_DB_PATH "/system_data/priv/mms/app.db"
 
 /* Compile-time default scan roots (used when config has no scanpath entries). */
